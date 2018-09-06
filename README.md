@@ -61,7 +61,7 @@ $ git clone https://github.com/exponentian/web-development-beginner-react-apollo
 $ npm install
 ```
 
-3. Add your MONGODB URI in ./src/config.js
+3. Add your GraphQL URI in ./src/config.js
 
 4. Start
 
