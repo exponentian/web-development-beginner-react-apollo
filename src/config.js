@@ -1,0 +1,1 @@
+export const GraphQL_URI = process.env.GraphQL_URI || 'http://localhost:6006/graphql';
