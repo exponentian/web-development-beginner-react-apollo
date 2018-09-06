@@ -52,7 +52,7 @@ Also, a course has information:
 1. Download or clone
 
 ```
-$ git clone https://github.com/exponentian/web-development-beginner-node-express-graphql.git
+$ git clone https://github.com/exponentian/web-development-beginner-react-apollo.git
 ```
 
 2. Install npm packages
